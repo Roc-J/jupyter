@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e0bc9fa3-5401-4d16-b601-a68a8a75446c" name="CADMaster" url="http://10.108.211.136">
+        <fileTransfer host="10.108.211.136" port="22" rootFolder="/home/qinjingkun" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
